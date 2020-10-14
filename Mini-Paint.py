@@ -210,22 +210,3 @@ App = QApplication(sys.argv)
 window = Window() 
 window.show() 
 sys.exit(App.exec())
-
-
-        
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
